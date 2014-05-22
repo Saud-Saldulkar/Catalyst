@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!-- $Id: minimal.bkl 31612 2005-01-27 22:47:37Z VS $ -->
+
+<makefile>
+
+    <include file="presets/wx.bkl"/>
+
+    <exe id="saud" template="wx">
+        <app-type>gui</app-type>
+        <debug-info>on</debug-info>
+        <runtime-libs>dynamic</runtime-libs>
+        
+        <sources>main.cpp </sources>
+		<win32-res>my.rc</win32-res>
+		
+        <wx-lib>core</wx-lib>
+        <wx-lib>base</wx-lib>
+    </exe>
+
+</makefile>
