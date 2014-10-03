@@ -7,7 +7,7 @@ Language: C++
 GUI Framework: WxWidgets
 
 Future TODO's:
-- Implement Statistics using OpenGL
+- Implement Statistical plots using OpenGL
 - Interface SQLite code with Wx
 - Create File System structure
 
