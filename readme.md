@@ -1,4 +1,4 @@
-BLACK CANARY
+Catalyst
 ============
 
 ######A GUI implementation from scratch of a Distributed VCS
