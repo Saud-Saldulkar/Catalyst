@@ -1,6 +1,6 @@
 Catalyst
 ============
-###### This repository has been deprecated (converted to closed source license) 
+>######This repository has been deprecated (converted to closed source license) 
 
 ######A GUI implementation from scratch of a Distributed VCS
 
